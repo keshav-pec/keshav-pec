@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hacktoberfest'25 Badges
 
 <!--
 **keshav-pec/keshav-pec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
